@@ -1,1 +1,2 @@
 commit 3 | it must be in result
+commit 4 | it must be in result
